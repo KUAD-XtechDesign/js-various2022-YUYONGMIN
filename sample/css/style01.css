@@ -56,6 +56,14 @@ header ul li{
   overflow: hidden;
 }
 
+#back{
+  background-image: url(../images/spaceback.png);
+  background-size: cover;
+  background-position: center 100px;
+  top: 0;
+  top:90%;
+  transition: 2s all;
+}
 
 #back.anime{
   top: 0%;
@@ -138,9 +146,9 @@ header ul li{
 
 @keyframes backmove{
   0%{
-    background-position-x: 0px;
+    background-position-x: center 100px;
   }
   100%{
-    background-position-x: -200px;
+    background-position-x: center 100px;
   }
 }
