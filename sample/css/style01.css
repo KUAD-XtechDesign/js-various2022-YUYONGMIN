@@ -56,14 +56,6 @@ header ul li{
   overflow: hidden;
 }
 
-#back{
-  background-image: url(../images/spaceback.png);
-  background-size: cover;
-  background-position: center 100px;
-  top: 0;
-  top:90%;
-  transition: 2s all;
-}
 
 #back.anime{
   top: 0%;
