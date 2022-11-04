@@ -4,9 +4,9 @@ body{
 }
 
 header{
-  background-color: #fff;
+  background-color: rgb(165, 165, 165);
   padding: 10px;
-  color: rgb(132, 132, 132);
+  color: rgb(0, 0, 0);
 }
 
 img{
