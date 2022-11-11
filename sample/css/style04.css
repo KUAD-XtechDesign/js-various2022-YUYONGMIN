@@ -48,6 +48,14 @@ img{
   width: 600px;
 }
 
+#line{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(to right, blue,red);
+}
 
 
 
