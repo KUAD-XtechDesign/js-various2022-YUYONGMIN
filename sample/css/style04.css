@@ -60,7 +60,7 @@ img{
   left: 0;
   width: 0;
   height: 3px;
-  background: linear-gradient(to right, blue,red);
+  background: linear-gradient(to right, blue,yellow,red);
 }
 
 
