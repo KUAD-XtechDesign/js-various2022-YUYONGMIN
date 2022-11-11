@@ -1,4 +1,10 @@
 body{
+  background-image: url(../images/spaceback.png);
+  background-size: cover;
+  background-position: center 100px;
+  top: 0;
+  top:90%;
+  transition: 2s all;
   background-color: rgb(123, 123, 123);
   color: #ccc;
 }
@@ -32,15 +38,6 @@ img{
   width: 600px;
 }
 
-#back{
-  background-image: url(../images/spaceback.png);
-  background-size: cover;
-  background-position: center 100px;
-  top: 0;
-  top:90%;
-  transition: 2s all;
-}
-
-#back.anime{
+#body.anime{
   top: 0%;
 }
