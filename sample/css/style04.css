@@ -46,21 +46,3 @@ img{
   top: 0%;
 }
 
-html,body,#contents,.wrapper,#back{
-  background-color: #001219;
-  height: 100%;
-  width: 100%;
-  position: relative;
-}
-
-.wrapper{
-  
-}
-
-li{
-  list-style: none;
-}
-
-img{
-  max-width: 100%;
-}
