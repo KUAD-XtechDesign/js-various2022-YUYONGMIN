@@ -15,6 +15,16 @@ header{
   color: rgb(0, 0, 0);
 }
 
+#wave{
+  width:60px;
+  height: 60px;
+  background-image: url(../images/wave.png);
+  background-size: 60px auto;
+  background-position: center center;
+  background-repeat: repeat-x;
+  margin-left: auto;
+}
+
 img{
   max-width: 100%;
   display: block;
@@ -47,14 +57,5 @@ img{
   background: linear-gradient(to right, blue,red);
 }
 
-#wave{
-  width:60px;
-  height: 60px;
-  background-image: url(../images/wave.png);
-  background-size: 60px auto;
-  background-position: center center;
-  background-repeat: repeat-x;
-  margin-left: auto;
-}
 
 
