@@ -2,12 +2,13 @@
   overflow: hidden;
 }
 
-body{
-  background-color: rgb(123, 123, 123);
-  color: #ccc;
-  background-color: rgb(123, 123, 123);
-  color: #ccc;
+html,body,#contents,.wrapper,#back{
+  background-color: #001219;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
+
 
 header{
   background-color: rgb(255, 255, 255);
